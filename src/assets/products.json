@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Max 90",
+    "brand": "Nike",
+    "price": 120.99,
+    "description": "Iconic Nike sneakers with Air Max technology."
+  },
+  {
+    "id": 2,
+    "name": "Adidas Ultraboost",
+    "brand": "Adidas",
+    "price": 149.99,
+    "description": "Comfortable and stylish running shoes from Adidas."
+  },
+  {
+    "id": 3,
+    "name": "Puma Future Rider",
+    "brand": "Puma",
+    "price": 89.99,
+    "description": "Retro-inspired sneakers with a modern twist from Puma."
+  },
+  {
+    "id": 4,
+    "name": "New Balance 990v5",
+    "brand": "New Balance",
+    "price": 174.99,
+    "description": "Premium quality running shoes with a classic design."
+  },
+  {
+    "id": 5,
+    "name": "Vans Old Skool",
+    "brand": "Vans",
+    "price": 59.99,
+    "description": "Classic skate shoes with a timeless appeal."
+  },
+  {
+    "id": 6,
+    "name": "Converse Chuck Taylor All Star",
+    "brand": "Converse",
+    "price": 54.99,
+    "description": "Iconic canvas sneakers suitable for any casual occasion."
+  },
+  {
+    "id": 7,
+    "name": "Reebok Classic Leather",
+    "brand": "Reebok",
+    "price": 79.99,
+    "description": "Timeless and comfortable leather sneakers from Reebok."
+  },
+  {
+    "id": 8,
+    "name": "Under Armour HOVR Phantom",
+    "brand": "Under Armour",
+    "price": 129.99,
+    "description": "High-performance running shoes with HOVR technology."
+  },
+  {
+    "id": 9,
+    "name": "Brooks Ghost 13",
+    "brand": "Brooks",
+    "price": 129.95,
+    "description": "Neutral running shoes for a smooth and comfortable ride."
+  },
+  {
+    "id": 10,
+    "name": "Salomon Speedcross 5",
+    "brand": "Salomon",
+    "price": 129.99,
+    "description": "Trail running shoes with excellent traction and stability."
+  },
+  {
+    "id": 11,
+    "name": "Mizuno Wave Rider 24",
+    "brand": "Mizuno",
+    "price": 119.99,
+    "description": "Versatile running shoes suitable for various distances."
+  },
+  {
+    "id": 12,
+    "name": "Saucony Jazz Original Vintage",
+    "brand": "Saucony",
+    "price": 64.95,
+    "description": "Classic sneakers with a retro vibe and comfortable fit."
+  },
+  {
+    "id": 13,
+    "name": "ASICS Gel-Kayano 27",
+    "brand": "ASICS",
+    "price": 159.95,
+    "description": "Stability running shoes with GEL technology for support."
+  },
+  {
+    "id": 14,
+    "name": "Hoka One One Clifton 7",
+    "brand": "Hoka One One",
+    "price": 129.95,
+    "description": "Maximal cushioning for a smooth and comfortable run."
+  },
+  {
+    "id": 15,
+    "name": "Merrell Trail Glove 5",
+    "brand": "Merrell",
+    "price": 99.95,
+    "description": "Minimalist trail running shoes for a natural feel."
+  },
+  {
+    "id": 16,
+    "name": "Columbia Newton Ridge Plus II",
+    "brand": "Columbia",
+    "price": 79.95,
+    "description": "Waterproof hiking boots for outdoor adventures."
+  },
+  {
+    "id": 17,
+    "name": "Timberland 6-Inch Premium Waterproof Boot",
+    "brand": "Timberland",
+    "price": 198.0,
+    "description": "Iconic waterproof boots for durability and style."
+  },
+  {
+    "id": 18,
+    "name": "Dr. Martens 1460",
+    "brand": "Dr. Martens",
+    "price": 149.99,
+    "description": "Classic leather boots with a distinctive design."
+  },
+  {
+    "id": 19,
+    "name": "UGG Classic Short II",
+    "brand": "UGG",
+    "price": 169.95,
+    "description": "Cozy sheepskin boots for warmth and comfort."
+  },
+  {
+    "id": 20,
+    "name": "Fila Disruptor II",
+    "brand": "Fila",
+    "price": 65.0,
+    "description": "Chunky sneakers with a bold and retro look."
+  }
+]
