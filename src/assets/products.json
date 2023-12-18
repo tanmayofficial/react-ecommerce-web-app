@@ -4,139 +4,159 @@
     "name": "Nike Air Max 90",
     "brand": "Nike",
     "price": 120.99,
-    "description": "Iconic Nike sneakers with Air Max technology."
+    "description": "Iconic Nike sneakers with Air Max technology.",
+    "image": "./nike_air_max.jpg"
   },
   {
     "id": 2,
     "name": "Adidas Ultraboost",
     "brand": "Adidas",
     "price": 149.99,
-    "description": "Comfortable and stylish running shoes from Adidas."
+    "description": "Comfortable and stylish running shoes from Adidas.",
+    "image": "https://example.com/adidas_ultraboost.jpg"
   },
   {
     "id": 3,
     "name": "Puma Future Rider",
     "brand": "Puma",
     "price": 89.99,
-    "description": "Retro-inspired sneakers with a modern twist from Puma."
+    "description": "Retro-inspired sneakers with a modern twist from Puma.",
+    "image": "https://example.com/puma_future_rider.jpg"
   },
   {
     "id": 4,
     "name": "New Balance 990v5",
     "brand": "New Balance",
     "price": 174.99,
-    "description": "Premium quality running shoes with a classic design."
+    "description": "Premium quality running shoes with a classic design.",
+    "image": "https://example.com/new_balance_990v5.jpg"
   },
   {
     "id": 5,
     "name": "Vans Old Skool",
     "brand": "Vans",
     "price": 59.99,
-    "description": "Classic skate shoes with a timeless appeal."
+    "description": "Classic skate shoes with a timeless appeal.",
+    "image": "https://example.com/vans_old_skool.jpg"
   },
   {
     "id": 6,
     "name": "Converse Chuck Taylor All Star",
     "brand": "Converse",
     "price": 54.99,
-    "description": "Iconic canvas sneakers suitable for any casual occasion."
+    "description": "Iconic canvas sneakers suitable for any casual occasion.",
+    "image": "https://example.com/converse_chuck_taylor.jpg"
   },
   {
     "id": 7,
     "name": "Reebok Classic Leather",
     "brand": "Reebok",
     "price": 79.99,
-    "description": "Timeless and comfortable leather sneakers from Reebok."
+    "description": "Timeless and comfortable leather sneakers from Reebok.",
+    "image": "https://example.com/reebok_classic_leather.jpg"
   },
   {
     "id": 8,
     "name": "Under Armour HOVR Phantom",
     "brand": "Under Armour",
     "price": 129.99,
-    "description": "High-performance running shoes with HOVR technology."
+    "description": "High-performance running shoes with HOVR technology.",
+    "image": "https://example.com/under_armour_hovr_phantom.jpg"
   },
   {
     "id": 9,
     "name": "Brooks Ghost 13",
     "brand": "Brooks",
     "price": 129.95,
-    "description": "Neutral running shoes for a smooth and comfortable ride."
+    "description": "Neutral running shoes for a smooth and comfortable ride.",
+    "image": "https://example.com/brooks_ghost_13.jpg"
   },
   {
     "id": 10,
     "name": "Salomon Speedcross 5",
     "brand": "Salomon",
     "price": 129.99,
-    "description": "Trail running shoes with excellent traction and stability."
+    "description": "Trail running shoes with excellent traction and stability.",
+    "image": "https://example.com/salomon_speedcross_5.jpg"
   },
   {
     "id": 11,
     "name": "Mizuno Wave Rider 24",
     "brand": "Mizuno",
     "price": 119.99,
-    "description": "Versatile running shoes suitable for various distances."
+    "description": "Versatile running shoes suitable for various distances.",
+    "image": "https://example.com/mizuno_wave_rider_24.jpg"
   },
   {
     "id": 12,
     "name": "Saucony Jazz Original Vintage",
     "brand": "Saucony",
     "price": 64.95,
-    "description": "Classic sneakers with a retro vibe and comfortable fit."
+    "description": "Classic sneakers with a retro vibe and comfortable fit.",
+    "image": "https://example.com/saucony_jazz_original_vintage.jpg"
   },
   {
     "id": 13,
     "name": "ASICS Gel-Kayano 27",
     "brand": "ASICS",
     "price": 159.95,
-    "description": "Stability running shoes with GEL technology for support."
+    "description": "Stability running shoes with GEL technology for support.",
+    "image": "https://example.com/asics_gel_kayano_27.jpg"
   },
   {
     "id": 14,
     "name": "Hoka One One Clifton 7",
     "brand": "Hoka One One",
     "price": 129.95,
-    "description": "Maximal cushioning for a smooth and comfortable run."
+    "description": "Maximal cushioning for a smooth and comfortable run.",
+    "image": "https://example.com/hoka_one_one_clifton_7.jpg"
   },
   {
     "id": 15,
     "name": "Merrell Trail Glove 5",
     "brand": "Merrell",
     "price": 99.95,
-    "description": "Minimalist trail running shoes for a natural feel."
+    "description": "Minimalist trail running shoes for a natural feel.",
+    "image": "https://example.com/merrell_trail_glove_5.jpg"
   },
   {
     "id": 16,
     "name": "Columbia Newton Ridge Plus II",
     "brand": "Columbia",
     "price": 79.95,
-    "description": "Waterproof hiking boots for outdoor adventures."
+    "description": "Waterproof hiking boots for outdoor adventures.",
+    "image": "https://example.com/columbia_newton_ridge_plus_ii.jpg"
   },
   {
     "id": 17,
     "name": "Timberland 6-Inch Premium Waterproof Boot",
     "brand": "Timberland",
     "price": 198.0,
-    "description": "Iconic waterproof boots for durability and style."
+    "description": "Iconic waterproof boots for durability and style.",
+    "image": "https://example.com/timberland_6_inch_premium.jpg"
   },
   {
     "id": 18,
     "name": "Dr. Martens 1460",
     "brand": "Dr. Martens",
     "price": 149.99,
-    "description": "Classic leather boots with a distinctive design."
+    "description": "Classic leather boots with a distinctive design.",
+    "image": "https://example.com/dr_martens_1460.jpg"
   },
   {
     "id": 19,
     "name": "UGG Classic Short II",
     "brand": "UGG",
     "price": 169.95,
-    "description": "Cozy sheepskin boots for warmth and comfort."
+    "description": "Cozy sheepskin boots for warmth and comfort.",
+    "image": "https://example.com/ugg_classic_short_ii.jpg"
   },
   {
     "id": 20,
     "name": "Fila Disruptor II",
     "brand": "Fila",
     "price": 65.0,
-    "description": "Chunky sneakers with a bold and retro look."
+    "description": "Chunky sneakers with a bold and retro look.",
+    "image": "https://example.com/fila_disruptor_ii.jpg"
   }
 ]
