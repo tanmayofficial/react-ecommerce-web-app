@@ -2,6 +2,7 @@ import React from "react";
 import { Link, useParams } from "react-router-dom";
 import { useAppContext } from "../../utilities/AppProvider";
 import image from "../../assets/nike_air_max.jpg";
+import { IoArrowBackSharp } from "react-icons/io5";
 
 const ProductDetails = () => {
   const { products } = useAppContext();
@@ -22,14 +23,17 @@ const ProductDetails = () => {
           <p className="mt-4">{product.description}</p>
         </div>
         <div className="flex-shrink-0">
-          <img src={image} alt={product.name} className="w-56" />
+          <img src={image} alt={product.name} className="w-52" />
         </div>
       </div>
-        <Link to="/" className="text-blue-500">
-      <button className="mt-4">
+      <Link to="/" className="text-blue-500">
+        <button className="mt-4 flex items-center">
+          <span className="mr-2">
+            <IoArrowBackSharp />
+          </span>
           Back to Product List
-      </button>
-        </Link>
+        </button>
+      </Link>
     </div>
   );
 };

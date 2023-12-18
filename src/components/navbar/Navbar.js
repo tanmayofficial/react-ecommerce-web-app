@@ -1,6 +1,7 @@
 import React from "react";
 import { useAppContext } from "../../utilities/AppProvider";
 import { Link } from "react-router-dom";
+import { FaShopify } from "react-icons/fa6";
 
 const Navbar = () => {
   const { cart, calculateTotal } = useAppContext();
@@ -9,9 +10,10 @@ const Navbar = () => {
     <div className="container mx-auto mb-4">
       <nav className="bg-gray-800 p-4">
         <ul className="flex space-x-4 text-white justify-between">
-          <li>
-            <Link to="/" className="text-xl hover:text-gray-300 ml-3">
-              LET'S SHOP
+          <li className="">
+            <Link to="/" className="text-xl hover:text-gray-300 ml-3 flex items-center">
+              <FaShopify />
+              <p className="ml-2">LET"S SHOP</p>
             </Link>
           </li>
           <span className="flex space-x-4 text-white justify-around">
