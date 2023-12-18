@@ -11,7 +11,7 @@ const Navbar = () => {
       <nav className="bg-gray-800 p-4">
         <ul className="flex space-x-4 text-white justify-between">
           <li className="">
-            <Link to="/" className="text-xl hover:text-gray-300 ml-3 flex items-center">
+            <Link to="/" className="text-xl hover:text-gray-300 ml-2 flex items-center">
               <FaShopify />
               <p className="ml-2">LET"S SHOP</p>
             </Link>

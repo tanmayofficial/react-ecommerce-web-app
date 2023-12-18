@@ -1,7 +1,6 @@
 import React from "react";
 import { Link, useParams } from "react-router-dom";
 import { useAppContext } from "../../utilities/AppProvider";
-import image from "../../assets/nike_air_max.jpg";
 import { IoArrowBackSharp } from "react-icons/io5";
 
 const ProductDetails = () => {
@@ -13,6 +12,14 @@ const ProductDetails = () => {
     return <p>Product not found.</p>;
   }
 
+  const images = require.context("../../assets/images/", false, /\.(jpg)$/);
+  const imagePaths = images.keys().map(images);
+
+  const getImageByName = (imageName) => {
+    const imagePath = imagePaths.find((path) => path.includes(imageName));
+    return imagePath || null;
+  };
+
   return (
     <div className="mx-4">
       <h2 className="text-3xl font-bold mb-4">Product Details</h2>
@@ -22,8 +29,8 @@ const ProductDetails = () => {
           <p className="text-gray-600">${product.price.toFixed(2)}</p>
           <p className="mt-4">{product.description}</p>
         </div>
-        <div className="flex-shrink-0">
-          <img src={image} alt={product.name} className="w-52" />
+        <div className="flex-shrink-0 mr-8">
+          <img src={getImageByName(product.image)} alt={product.name} className="w-52" />
         </div>
       </div>
       <Link to="/" className="text-blue-500">

@@ -5,7 +5,7 @@
     "brand": "Nike",
     "price": 120.99,
     "description": "Iconic Nike sneakers with Air Max technology.",
-    "image": "./nike_air_max.jpg"
+    "image": "nike_air_max"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "brand": "Adidas",
     "price": 149.99,
     "description": "Comfortable and stylish running shoes from Adidas.",
-    "image": "https://example.com/adidas_ultraboost.jpg"
+    "image": "Adidas_Ultraboost"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "brand": "Puma",
     "price": 89.99,
     "description": "Retro-inspired sneakers with a modern twist from Puma.",
-    "image": "https://example.com/puma_future_rider.jpg"
+    "image": "Puma-Future-Rider"
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "brand": "New Balance",
     "price": 174.99,
     "description": "Premium quality running shoes with a classic design.",
-    "image": "https://example.com/new_balance_990v5.jpg"
+    "image": "New_Balance_990v5"
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "brand": "Vans",
     "price": 59.99,
     "description": "Classic skate shoes with a timeless appeal.",
-    "image": "https://example.com/vans_old_skool.jpg"
+    "image": "Vans-Old-Skool"
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "brand": "Converse",
     "price": 54.99,
     "description": "Iconic canvas sneakers suitable for any casual occasion.",
-    "image": "https://example.com/converse_chuck_taylor.jpg"
+    "image": "Converse-Chuck-Taylor-All-Star"
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "brand": "Reebok",
     "price": 79.99,
     "description": "Timeless and comfortable leather sneakers from Reebok.",
-    "image": "https://example.com/reebok_classic_leather.jpg"
+    "image": "Reebok-Classic-Leather"
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "brand": "Under Armour",
     "price": 129.99,
     "description": "High-performance running shoes with HOVR technology.",
-    "image": "https://example.com/under_armour_hovr_phantom.jpg"
+    "image": "Under-Armour-HOVR-Phantom"
   },
   {
     "id": 9,
@@ -69,7 +69,7 @@
     "brand": "Brooks",
     "price": 129.95,
     "description": "Neutral running shoes for a smooth and comfortable ride.",
-    "image": "https://example.com/brooks_ghost_13.jpg"
+    "image": "Brooks-Ghost-13"
   },
   {
     "id": 10,
@@ -77,15 +77,15 @@
     "brand": "Salomon",
     "price": 129.99,
     "description": "Trail running shoes with excellent traction and stability.",
-    "image": "https://example.com/salomon_speedcross_5.jpg"
+    "image": "Salomon-Speedcross-5"
   },
   {
     "id": 11,
-    "name": "Mizuno Wave Rider 24",
+    "name": "Mizuno Wave Rider 27",
     "brand": "Mizuno",
     "price": 119.99,
     "description": "Versatile running shoes suitable for various distances.",
-    "image": "https://example.com/mizuno_wave_rider_24.jpg"
+    "image": "Mizuno-Wave-Rider-24"
   },
   {
     "id": 12,
@@ -93,7 +93,7 @@
     "brand": "Saucony",
     "price": 64.95,
     "description": "Classic sneakers with a retro vibe and comfortable fit.",
-    "image": "https://example.com/saucony_jazz_original_vintage.jpg"
+    "image": "Saucony-Jazz-Original-Vintage"
   },
   {
     "id": 13,
@@ -101,7 +101,7 @@
     "brand": "ASICS",
     "price": 159.95,
     "description": "Stability running shoes with GEL technology for support.",
-    "image": "https://example.com/asics_gel_kayano_27.jpg"
+    "image": "ASICS-Gel-Kayano-27"
   },
   {
     "id": 14,
@@ -109,15 +109,15 @@
     "brand": "Hoka One One",
     "price": 129.95,
     "description": "Maximal cushioning for a smooth and comfortable run.",
-    "image": "https://example.com/hoka_one_one_clifton_7.jpg"
+    "image": "Hoka-One-One-Clifton7"
   },
   {
     "id": 15,
-    "name": "Merrell Trail Glove 5",
+    "name": "Merrell Trail Glove 6",
     "brand": "Merrell",
     "price": 99.95,
     "description": "Minimalist trail running shoes for a natural feel.",
-    "image": "https://example.com/merrell_trail_glove_5.jpg"
+    "image": "Merrell-Trail-Glove-5"
   },
   {
     "id": 16,
@@ -125,7 +125,7 @@
     "brand": "Columbia",
     "price": 79.95,
     "description": "Waterproof hiking boots for outdoor adventures.",
-    "image": "https://example.com/columbia_newton_ridge_plus_ii.jpg"
+    "image": "Columbia-Newton Ridge-Plus-II"
   },
   {
     "id": 17,
@@ -133,7 +133,7 @@
     "brand": "Timberland",
     "price": 198.0,
     "description": "Iconic waterproof boots for durability and style.",
-    "image": "https://example.com/timberland_6_inch_premium.jpg"
+    "image": "Timberland-6-Inch-Premium-Waterproof-Boot"
   },
   {
     "id": 18,
@@ -141,7 +141,7 @@
     "brand": "Dr. Martens",
     "price": 149.99,
     "description": "Classic leather boots with a distinctive design.",
-    "image": "https://example.com/dr_martens_1460.jpg"
+    "image": "Dr.-Martens-1460"
   },
   {
     "id": 19,
@@ -149,7 +149,7 @@
     "brand": "UGG",
     "price": 169.95,
     "description": "Cozy sheepskin boots for warmth and comfort.",
-    "image": "https://example.com/ugg_classic_short_ii.jpg"
+    "image": "UGG-Classic-Short-II"
   },
   {
     "id": 20,
@@ -157,6 +157,6 @@
     "brand": "Fila",
     "price": 65.0,
     "description": "Chunky sneakers with a bold and retro look.",
-    "image": "https://example.com/fila_disruptor_ii.jpg"
+    "image": "Fila-Disruptor-II"
   }
 ]
